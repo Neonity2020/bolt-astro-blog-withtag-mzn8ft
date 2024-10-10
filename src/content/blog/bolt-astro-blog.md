@@ -17,3 +17,5 @@ tags: ['astro', 'blogging', 'learning in public', 'bolt.new']
 - 部署
 
 几乎无需人工debug，一个美观、现代，功能比较完整的博客就上线了。抓紧来试试吧！
+
+This message is used to verify that this feed (feedId:66973692634198016) belongs to me (userId:66366355826536448). Join me in enjoying the next generation information browser https://follow.is.
